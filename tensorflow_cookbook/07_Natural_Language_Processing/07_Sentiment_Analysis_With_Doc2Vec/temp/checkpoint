@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/loctv/Documents/loctv2/ML/tensorflow_cookbook/07_Natural_Language_Processing/07_Sentiment_Analysis_With_Doc2Vec/temp/doc2vec_movie_embeddings.ckpt"
+all_model_checkpoint_paths: "/Users/loctv/Documents/loctv2/ML/tensorflow_cookbook/07_Natural_Language_Processing/07_Sentiment_Analysis_With_Doc2Vec/temp/doc2vec_movie_embeddings.ckpt"
